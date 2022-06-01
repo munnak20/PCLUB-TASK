@@ -15,4 +15,4 @@ while hashlib.sha256((string+ str(nonce)).encode()).hexdigest()>"00000FFFFFFFFFF
 # printing  nonce value which will be minimum 
 print(nonce)
 
-# RUNTIME IS 4.610sec WHICH IS EXPECTED
+# RUNTIME IS 4.610sec WHICH IS HIGH AS EXPECTED
