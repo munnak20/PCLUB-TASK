@@ -1,4 +1,4 @@
-Created a smart contract #META_COIN in SOLIDITY language
+Created a smart contract #META_COIN in SOLIDITY  Programming language
 
 So there is a smart contract called MetaCoin, which implements a basic token that the accounts can give each other with the 'sendCoin' function and see their balance with the 'getBalance' function.
 
