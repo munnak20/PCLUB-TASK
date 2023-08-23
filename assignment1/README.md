@@ -1,4 +1,3 @@
-## DEEP DIVE INTO WEB 3.O
 ## PROOF OF WORK
 
 The Proof of Algorithm is used to verify the transaction and create a new block in the blockchain.
